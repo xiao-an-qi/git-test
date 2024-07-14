@@ -4,7 +4,7 @@ import random
 import cv2
 import numpy as np
 from skimage.feature import graycomatrix, graycoprops, local_binary_pattern, hog
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 
 # 灰度共生矩阵 (GLCM)
